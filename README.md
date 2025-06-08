@@ -37,7 +37,7 @@ Aplicación de escritorio que automatiza la carga, gestión y emisión de certif
    WIP
 4. **Compilar y correr** 
 
-   WIP
+   Descargar proyecto, agregar a espacio de trabajo en netbeans y "RUN PROJECT"
 
 ## 🧩 Módulos principales
 
