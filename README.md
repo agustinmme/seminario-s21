@@ -34,7 +34,8 @@ Aplicación de escritorio que automatiza la carga, gestión y emisión de certif
    * Ejecutar poblar.sql
 3. **Configurar conexión**
 
-   WIP
+Completar los String conection en DatabaseConfig
+
 4. **Compilar y correr** 
 
    Descargar proyecto, agregar a espacio de trabajo en netbeans y "RUN PROJECT"
